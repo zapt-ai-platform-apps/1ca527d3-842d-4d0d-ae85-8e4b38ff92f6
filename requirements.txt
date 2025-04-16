@@ -1,0 +1,6 @@
+numpy
+scipy
+pydub
+simpleaudio
+soundfile
+matplotlib
